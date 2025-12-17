@@ -11,7 +11,6 @@
 ## 🛠️ Tech Stack
 
 * **MERN Stack:** MongoDB, Express.js, React, Node.js
-* **Frontend:** Material-UI (Glassmorphism), Framer Motion
 * **Auth:** JSON Web Tokens (JWT)
 
 ## 💻 Setup Guide
