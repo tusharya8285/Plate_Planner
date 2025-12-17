@@ -1,19 +1,19 @@
-'''# 🍽️ PlatePlanner
+'''#  PlatePlanner
 
 **Dining, Reimagined.** A social dining platform where users capture food memories, discover authentic reviews, and book tables instantly.
 
-## 🚀 Key Features
+##  Key Features
 
 * **Capture & Share:** Post visual food diaries and reviews of your dining experiences.
 * **Discover:** Browse a real-time feed of meals from the community—no anonymous ratings, just real food.
 * **Instant Booking:** See a dish you like? Click **"Reserve Table"** on the post to book immediately.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **MERN Stack:** MongoDB, Express.js, React, Node.js
 * **Auth:** JSON Web Tokens (JWT)
 
-## 💻 Setup Guide
+##  Setup Guide
 
 ### 1. Installation
 Clone the repo and install dependencies for both server and client:
