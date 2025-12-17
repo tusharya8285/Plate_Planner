@@ -1,4 +1,4 @@
-'''#  PlatePlanner
+###  PlatePlanner
 
 **Dining, Reimagined.** A social dining platform where users capture food memories, discover authentic reviews, and book tables instantly.
 
